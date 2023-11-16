@@ -1,0 +1,10 @@
+{
+    "name": "admin/attphp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Attphp\\": "src/"
+        }
+    },
+    "require": {}
+}
